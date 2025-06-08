@@ -10,5 +10,9 @@ This repository will contain individual subfolders for each project I'm going to
 
 I'm uploading **one project every day** as part of my commitment to consistency and skill development.
 
+## 📂 Projects Included
+
+| [🏋️ Workout Tracker](./workout-tracker/) | A natural language-based workout logger using Nutritionix API and Google Sheets (via Sheety API). |
+
 
 
