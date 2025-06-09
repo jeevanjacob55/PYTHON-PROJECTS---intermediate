@@ -12,10 +12,10 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 ## 📂 Projects Included
 
-[🏋️ Workout Tracker](./Workout-Tracker-Nutritionix-Api/) -> A natural language-based workout logger using Nutritionix API and Google Sheets (via Sheety API). 
+1. [🏋️ Workout Tracker](./Workout-Tracker-Nutritionix-Api/) -> A natural language-based workout logger using Nutritionix API and Google Sheets (via Sheety API). 
 
-[✈️ Cheap Flight Finder](./Cheap-Flight-Finder/) ->  An automated tool that searches for cheap flight deals and sends alerts when prices drop below a set threshold using Sheety and flight APIs.
+2. [✈️ Cheap Flight Finder](./Cheap-Flight-Finder/) ->  An automated tool that searches for cheap flight deals and sends alerts when prices drop below a set threshold using Sheety and flight APIs.
 
-[✈️ Flight Club](./Flight-Club/) -> An automated flight alert system that lets users sign up for cheap flight notifications via email and SMS. Integrates with Sheety, Tequila API, and supports user registration.
+3. [✈️ Flight Club](./Flight-Club/) -> An automated flight alert system that lets users sign up for cheap flight notifications via email and SMS. Integrates with Sheety, Tequila API, and supports user registration.
 
 
