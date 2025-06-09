@@ -12,7 +12,7 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 ## 📂 Projects Included
 
-[🏋️ Workout Tracker](./Workout-Tracker-Nutritionix-Ap/) -> A natural language-based workout logger using Nutritionix API and Google Sheets (via Sheety API). 
+[🏋️ Workout Tracker](./Workout-Tracker-Nutritionix-Api/) -> A natural language-based workout logger using Nutritionix API and Google Sheets (via Sheety API). 
 
 
 
