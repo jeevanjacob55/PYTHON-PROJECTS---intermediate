@@ -32,7 +32,7 @@ Create a personalized **Spotify playlist** of the Billboard Hot 100 songs from a
  - Client Secret
  - Create A Redirect URL www.example.com
 
-Set a redirect URI, e.g., http://example.com
+
 ### 4. Create a .env File
  - Add the following
  - CLIENT_ID=your_spotify_client_id
