@@ -18,7 +18,7 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 3. [✈️ Flight Club](./Flight-Club/) -> An automated flight alert system that lets users sign up for cheap flight notifications via email and SMS. Integrates with Sheety, Tequila API, and supports user registration.
 
-4. [Musical Time Machine](./MusicalTimeMachine/) ->  → Scrapes Billboard's top 100 songs for any date and creates a Spotify playlist using the Spotify API.
+4. [Musical Time Machine](./spotifytop100songs/) ->  → Scrapes Billboard's top 100 songs for any date and creates a Spotify playlist using the Spotify API.
 
 
 
