@@ -24,6 +24,9 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 6. [Cookie Cliker Game](./cookie-clicker/) ->Automates the Cookie Clicker game using Selenium by clicking the cookie and purchasing upgrades every few seconds.
 
+7. [Linkedin Job Saver](./AutomatedJobApplication/) -> Automates LinkedIn job search by logging in and saving all Python developer jobs in a given location using Selenium.
+   
+
 
 
 
