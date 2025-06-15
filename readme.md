@@ -22,5 +22,8 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 5. [Amazon Price Tracker](./Amazon-Price-Tracker/) -> Monitors an Amazon product’s price using web scraping and sends an email alert when it drops below a set threshold.
 
+6. [Cookie Cliker Game](./cookie-clicker/) ->Automates the Cookie Clicker game using Selenium by clicking the cookie and purchasing upgrades every few seconds.
+
+
 
 
