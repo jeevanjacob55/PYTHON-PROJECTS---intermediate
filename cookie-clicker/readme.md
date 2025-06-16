@@ -24,7 +24,7 @@ This Python project automates the online **Cookie Clicker** game using **Seleniu
 ## ⚙️ Setup Instructions
 
 ### 1. Install Requirements
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 2. Download ChromeDriver
 
