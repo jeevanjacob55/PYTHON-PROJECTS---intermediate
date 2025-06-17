@@ -30,7 +30,7 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 
 9. [Tinder-Auto-Swiping](./tinder-swipe-bot/) ->  Tinder auto-swipe bot using Selenium and Facebook login, fully automated swiping with pop-up handling.No need for you to swipe.
    
-
+10. [Instagram Follower Bot](./instagrambot/) ->An Instagram bot that logs in, scrapes followers from a target account, and follows them using Selenium.
 
 
 
