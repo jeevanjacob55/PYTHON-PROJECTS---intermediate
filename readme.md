@@ -27,6 +27,8 @@ I'm uploading **one project every day** as part of my commitment to consistency 
 7. [Linkedin Job Saver](./AutomatedJobApplication/) -> Automates LinkedIn job search by logging in and saving all Python developer jobs in a given location using Selenium.
 
 8. [Zillow-Rental-Scraper](./Zillow-Rental_Scraper/) -> Scrapes Zillow rental listings and automatically submits them to a Google Form using Selenium.
+
+9. [Tinder-Auto-Swiping](./tinder-swipe-bot/) ->  Tinder auto-swipe bot using Selenium and Facebook login, fully automated swiping with pop-up handling.No need for you to swipe.
    
 
 
