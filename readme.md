@@ -32,5 +32,7 @@ I'm uploading **one project every day** as part of my commitment to consistency 
    
 10. [Instagram Follower Bot](./instagrambot/) ->An Instagram bot that logs in, scrapes followers from a target account, and follows them using Selenium.
 
+11. [Higher Lower Game](./higher-lower/) -> A simple Number guessing game built using Flask
 
+12. [Flask Blog Website](./simple-personal-blog/) ->  Flask-based blog application that dynamically fetches blog post content from a remote JSON API and renders it using HTML templates.
 
